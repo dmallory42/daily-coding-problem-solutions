@@ -9,6 +9,7 @@
 # Bonus: Can you do this in one pass?
 # ---------------------------
 
+
 def check_sums(values: list, k: int):
     # Create a shallow copy of values:
     values_copy = [*values]
